@@ -1,7 +1,3 @@
-/*NAME :	Abdul Sami Qasim
-  ROLL :	22I-1725
-  ASSIGNMENT#	1*/
-  
 #include <iostream>
 #include <iomanip>
 using namespace std;

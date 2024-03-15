@@ -1,7 +1,3 @@
-//name : Abdul Sami Qasim
-//ID : 22I-1725
-//Assignment number 3
-
 #include <iostream>
 using namespace std;
 int main()
